@@ -1,0 +1,14 @@
+[project]
+name = "my-project"
+version = "0.1.0"
+description = "SDI - Travaux Pratiques"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "mesa>=3.5.1",
+    "networkx>=3.7",
+    "pandas>=3.0.6",
+    "seaborn>=0.13.2",
+]
