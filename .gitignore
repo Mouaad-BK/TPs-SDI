@@ -8,3 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Secrets
+.env
+**/.env
+
+# Fichiers système macOS
+**/__MACOSX/
+
+# Base de données ChromaDB
+**/store_ollama/
